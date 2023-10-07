@@ -1,7 +1,7 @@
 import streamlit as st
 from bokeh.models.widgets import Button
 from bokeh.models import CustomJS
-pip install --upgrade streamlit bokeh
+
 
 
 text = st.text_input("Que Hablar")
